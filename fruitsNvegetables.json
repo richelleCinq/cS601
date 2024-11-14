@@ -1,5 +1,5 @@
 {
-    "fruits": [
+    "fruits" : [
         {"id": 1, "name": "mango", "category": "fruits"},
         {"id": 2, "name": "strawberry", "category": "fruits"},
         {"id": 3, "name": "blueberry", "category": "fruits"},
@@ -7,7 +7,7 @@
         {"id": 5, "name": "orange", "category": "fruits"}
     ],
 
-    "vegetables": [
+    "vegetables" : [
         {"id": 1, "name": "eggplant", "category": "vegetables"},
         {"id": 2, "name": "lettuce", "category": "vegetables"},
         {"id": 3, "name": "bitter melon", "category": "vegetables"},
